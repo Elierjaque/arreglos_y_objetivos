@@ -1,0 +1,36 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover; /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
+
+.arriendo-lista{
+    display: flex;
+}
+
+.venta-lista{
+    display: flex;
+}
+
+.card{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
